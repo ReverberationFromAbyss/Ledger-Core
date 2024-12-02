@@ -12,7 +12,7 @@ ledger management software for android that is
 open source and matches my requirements,
 I decide to write one.
 
-So, as we can all seen, this is totally a individual project and only
+So, as we can see, this is totally a individual project and only
 aiming to make my own life easier.
 
 The target is an Double-Entry-Bookkeeping software.
